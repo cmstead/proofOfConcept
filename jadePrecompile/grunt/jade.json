@@ -1,0 +1,19 @@
+{
+  "compile": {
+    "options": {
+      "client": false,
+      "pretty": true
+    },
+    "files": [
+      {
+        "src": "./**/*.jade",
+        "dest": "./rendered/",
+        "ext": ".html",
+        "expand": {
+          "cwd": true
+        },
+        "cwd": "./jade/content/"
+      }
+    ]
+  }
+}

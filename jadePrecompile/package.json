@@ -1,0 +1,12 @@
+{
+  "name": "jadePrecompile",
+  "version": "1.0.0",
+  "description": "Test project and proof of concept for pre-compiling jade templates",
+  "author": "Chris Stead <cmstead@gmail.com> (http://www.chrisstead.com/)",
+  "license": "MPL",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jade": "^0.15.0",
+    "jade": "^1.11.0"
+  }
+}
