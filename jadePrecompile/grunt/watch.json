@@ -1,0 +1,9 @@
+{
+  "jade": {
+    "files": ["jade/**/*.jade"],
+    "tasks": ["jade"],
+    "options": {
+      "spawn": false
+    }
+  }
+}
